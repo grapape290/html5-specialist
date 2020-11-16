@@ -1,2 +1,1 @@
-# html5-specialist
-framework courses
+#Sean's HTML5 Specialist Repository
